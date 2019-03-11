@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\40a86172bfd4a93e4b2884cdc68b498c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c46b6176e18dd9516891d4fe0771135\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\90653285410979a6ec29d03b2290abc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c36cff8b1b01d899c7ed5c9784dd08c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b1284445fd5f28461bf46b921af513af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dd22a2b35292dc9b5b8e0ec389e519a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\114d985828880480a192af4881a86810\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\20fafac72452c687267b3963f368046e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\76bd1b2e8f829b2fe7cb0e2ba11c534c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ae501a7a43587b34c41f0eaa23997955\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3bc1f526b7b8a12d12546a0ccf39e66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4dc6de3b7dd824ca6a42d9ad5ae7ba6c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c46b6176e18dd9516891d4fe0771135\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c46b6176e18dd9516891d4fe0771135\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.park.blenavigation.MainActivity
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.park.blenavigation.MapActivity
+ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:22:9-25:20
+	android:noHistory
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml:23:13-40
+uses-sdk
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\40a86172bfd4a93e4b2884cdc68b498c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\40a86172bfd4a93e4b2884cdc68b498c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c46b6176e18dd9516891d4fe0771135\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c46b6176e18dd9516891d4fe0771135\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\90653285410979a6ec29d03b2290abc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\90653285410979a6ec29d03b2290abc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c36cff8b1b01d899c7ed5c9784dd08c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c36cff8b1b01d899c7ed5c9784dd08c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b1284445fd5f28461bf46b921af513af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b1284445fd5f28461bf46b921af513af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dd22a2b35292dc9b5b8e0ec389e519a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dd22a2b35292dc9b5b8e0ec389e519a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\114d985828880480a192af4881a86810\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\114d985828880480a192af4881a86810\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\20fafac72452c687267b3963f368046e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\20fafac72452c687267b3963f368046e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\76bd1b2e8f829b2fe7cb0e2ba11c534c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\76bd1b2e8f829b2fe7cb0e2ba11c534c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ae501a7a43587b34c41f0eaa23997955\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ae501a7a43587b34c41f0eaa23997955\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3bc1f526b7b8a12d12546a0ccf39e66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3bc1f526b7b8a12d12546a0ccf39e66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4dc6de3b7dd824ca6a42d9ad5ae7ba6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Park\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4dc6de3b7dd824ca6a42d9ad5ae7ba6c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Park\AndroidStudioProjects\BLEnavigation\app\src\main\AndroidManifest.xml

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLEnavigation</string>
+    <string name="btn_temp">온도 조회</string>
+</resources>
